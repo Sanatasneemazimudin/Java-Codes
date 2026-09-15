@@ -29,29 +29,4 @@ This repository serves as an open workspace for building and refining core progr
 * **Data Structures & Algorithms:** Practical implementations of basic data structures, array operations, and string manipulations.
 * **Logic & Simulations:** State management problems, utility calculators, and real-world logic implementations.
 
----
 
-## 🛠️ How to Run
-
-### Prerequisites
-Ensure you have the **Java Development Kit (JDK 8 or higher)** installed on your machine.
-
-### Execution
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Sanatasneemazimudin/Java-Codes.git](https://github.com/Sanatasneemazimudin/Java-Codes.git)
-   cd Java-Codes
-
-2. Compile any Java file:
-```bash
-javac FileName.java
-
-3. Run the compiled program:
-```bash
-java FileName
-
-
-
-```
-
-```
