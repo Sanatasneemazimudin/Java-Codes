@@ -42,20 +42,13 @@ Ensure you have the **Java Development Kit (JDK 8 or higher)** installed on your
    git clone [https://github.com/Sanatasneemazimudin/Java-Codes.git](https://github.com/Sanatasneemazimudin/Java-Codes.git)
    cd Java-Codes
 
-```
-
 2. Compile any Java file:
 ```bash
 javac FileName.java
 
-```
-
-
 3. Run the compiled program:
 ```bash
 java FileName
-
-```
 
 
 
