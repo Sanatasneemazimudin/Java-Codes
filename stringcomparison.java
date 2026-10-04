@@ -1,0 +1,9 @@
+public class stringcomparison {
+    public static void main(String[] args) {
+        String first = "Java";
+        String second = "Java";
+        String third = "Python";
+        System.out.println(first.equals(second));
+        System.out.println(first.equals(third));
+    }
+}
