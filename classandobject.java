@@ -1,0 +1,16 @@
+public class classandobject {
+    static class Student {
+        String name;
+        int age;
+        void display() {
+            System.out.println("Name: " + name);
+            System.out.println("Age: " + age);
+        }
+    }
+    public static void main(String[] args) {
+        Student student = new Student();
+        student.name = "Sana";
+        student.age = 20;
+        student.display();
+    }
+}
